@@ -1,0 +1,10 @@
+{
+	"SaveDate": "2020.12.25-15.28.04",
+	"Character": "hello",
+	"Items": [
+		"StaticMeshActor /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Sphere_2",
+		"StaticMeshActor /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Cone_8",
+		"StaticMeshActor /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default:PersistentLevel.Cube_5"
+	],
+	"ItemCount": [ 0, 1, 2 ]
+}
